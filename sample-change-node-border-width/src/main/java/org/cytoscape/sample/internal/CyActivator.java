@@ -6,7 +6,7 @@ import org.cytoscape.service.util.AbstractCyActivator;
 import java.util.Properties;
 import org.cytoscape.view.vizmap.VisualMappingManager;
 import org.cytoscape.application.CyApplicationManager;
-
+this is a commit
 
 public class CyActivator extends AbstractCyActivator {
 	public CyActivator() {
